@@ -21,6 +21,9 @@ I'm a full-Stack developer and YouTuber.
 - ⚡ Fun fact: remind again your name.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
