@@ -13,7 +13,7 @@ I'm a full-Stack developer and YouTuber.
 
 
 - 🔭 I’m currently working on [ react-native, Angular] projects.
-- 🌱 I’m currently learning Flutter, ReScript.
+- 🌱 I’m currently learning anything related to Front-End
 - 👯 I’m looking to collaborate on any react-community, flutter 
 - 🤔 I’m looking for help with (or maybe not).
 - 💬 Ask me about [ my projects, collaboration in open source, My Youtube channel]
